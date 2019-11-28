@@ -19,16 +19,16 @@ from telethon.tl.types import InputStickerSetID
 from telethon.tl.types import DocumentAttributeSticker
 
 KANGING_STR = [
-    "kk eae men. Nice stiker, kibei!",
-    "Dando uma de Havoc e kibando...",
-    "Fazendo uma armadilha pra\nkibar seu sticker...",
-    "Kibando esse sticker, kek...",
-    "Opa, ótimo sticker!\nSe importa se eu kibar? kek",
-    "hehe acabei de roubar seu sticker\nhehe...",
-    "cherry-picking seu sticker, hue...",
-    "Rosas são vermelhas, violetas são azuis...\nEnquanto você lê, seu sticker está sendo kibado kek...",
-    "Kibando seu sticker...",
-    "Que belo sticker, kibei fodase... ",
+    """kk eae men. Nice stiker, kibei!""",
+    """Dando uma de Havoc e kibando...""",
+    """Fazendo uma armadilha pra\nkibar seu sticker...""",
+    """Kibando esse sticker, kek...""",
+    """Opa, ótimo sticker!\nSe importa se eu kibar? kek""",
+    """hehe acabei de roubar seu sticker\nhehe...""",
+    """cherry-picking seu sticker, hue...""",
+    """Rosas são vermelhas, violetas são azuis...\nEnquanto você lê, seu sticker está sendo kibado kek...""",
+    """Kibando seu sticker...""",
+    """Que belo sticker, kibei fodase... """,
 ]
 
 
