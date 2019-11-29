@@ -318,5 +318,5 @@ CMD_HELP.update({
 \n\n.kibe [numero]\
 \nComo funciona: kiba o sticker/imagem para o pack especificado, mas usa 🤔 como emoji.\
 \n\n.kibe [emoji('s)] [numero]\
-\nComo funciona: Kiba's o sticker/imagem para o pack especificado e usa os emoji(s) que você escolheu.
+\nComo funciona: Kiba's o sticker/imagem para o pack especificado e usa os emoji(s) que você escolheu."
 })
